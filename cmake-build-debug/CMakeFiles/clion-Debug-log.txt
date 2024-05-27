@@ -1,0 +1,4 @@
+"D:\Clion\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/C++Environment/w64devkit-1.20.0/w64devkit/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/C++Environment/w64devkit-1.20.0/w64devkit/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/C++Environment/w64devkit-1.20.0/w64devkit/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S D:\Code\.cpp\HuffmanTree -B D:\Code\.cpp\HuffmanTree\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Code/.cpp/HuffmanTree/cmake-build-debug
